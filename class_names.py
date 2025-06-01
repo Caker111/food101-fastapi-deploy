@@ -1,1 +1,6 @@
-class_names = ['apple_pie', 'baby_back_ribs', 'baklava', 'beef_carpaccio', 'beef_tartare', 'beet_salad', 'beignets', 'bibimbap', 'bread_pudding', 'breakfast_burrito', 'bruschetta', 'caesar_salad', 'cannoli', 'caprese_salad', 'carrot_cake', 'ceviche', 'cheesecake', 'cheese_plate', 'chicken_curry', 'chicken_quesadilla']
+class_names = [
+    "apple_pie", "baby_back_ribs", "baklava", "beef_carpaccio", "beef_tartare",
+    "beet_salad", "beignets", "bibimbap", "bread_pudding", "breakfast_burrito",
+    "bruschetta", "caesar_salad", "cannoli", "caprese_salad", "carrot_cake",
+    "ceviche", "cheesecake", "cheese_plate", "chicken_curry", "chicken_quesadilla"
+]
